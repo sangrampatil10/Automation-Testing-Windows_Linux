@@ -51,24 +51,23 @@ public class LoginTest {
     public void runAllLogins() throws IOException, InterruptedException {
         // ✅ 15 valid credentials
         String[][] validCreds = {
-            {"amal.a@cwdin.com", "Pass@123"},
-            {"amal.a@cwdin.com", "Pass@123"},
-            {"amal.a@cwdin.com", "Pass@123"},
-             {"amal.a@cwdin.com", "Pass@123"},
-              {"amal.a@cwdin.com", "Pass@123"},
-               {"amal.a@cwdin.com", "Pass@123"},
-                {"amal.a@cwdin.com", "Pass@123"},
-                 {"amal.a@cwdin.com", "Pass@123"},
-                  {"amal.a@cwdin.com", "Pass@123"},
-                   {"amal.a@cwdin.com", "Pass@123"},
-                    {"amal.a@cwdin.com", "Pass@123"},
-                     {"amal.a@cwdin.com", "Pass@123"},
-                      {"amal.a@cwdin.com", "Pass@123"},
-                       {"amal.a@cwdin.com", "Pass@123"},
-                        {"amal.a@cwdin.com", "Pass@123"},
-                         {"amal.a@cwdin.com", "Pass@123"},
-                          {"amal.a@cwdin.com", "Pass@123"},
-                           {"amal.a@cwdin.com", "Pass@123"}
+            {"adityakonda@cwdin.com", "Aditya@123"},
+            {"adityakonda@cwdin.com", "Aditya@123"},
+            {"Omkar.chavan@cwdin.com", "Omkar@4321"},
+            {"Omkar.chavan@cwdin.com", "Omkar@4321"},
+            {"sushmita.singh@cwdin.com", "@Sushmita4321"},
+            {"sushmita.singh@cwdin.com", "@Sushmita4321"},
+            {"sushmita.singh@cwdin.com", "@Sushmita4321"},
+            {"Omkar.chavan@cwdin.com", "Omkar@4321"},
+            {"Omkar.chavan@cwdin.com", "Omkar@4321"},
+            {"sushmita.singh@cwdin.com", "@Sushmita4321"},
+            {"sushmita.singh@cwdin.com", "@Sushmita4321"},
+            {"sushmita.singh@cwdin.com", "@Sushmita4321"},
+            {"Omkar.chavan@cwdin.com", "Omkar@4321"},
+            {"Omkar.chavan@cwdin.com", "Omkar@4321"},
+            {"sushmita.singh@cwdin.com", "@Sushmita4321"},
+            {"sushmita.singh@cwdin.com", "@Sushmita4321"},
+            {"sushmita.singh@cwdin.com", "@Sushmita4321"}
         };
 
         // ✅ Valid Login Attempts
