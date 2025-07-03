@@ -39,8 +39,8 @@ public class AddUserTest {
     public void addNewUserFlow() throws InterruptedException, IOException {
         // ✅ Step 1: Login
         loginPage.goTo();
-        loginPage.enterEmail("amal.a@cwdin.com");
-        loginPage.enterPassword("Pass@123");
+        loginPage.enterEmail("adityakonda@cwdin.com");
+        loginPage.enterPassword("Aditya@123");
         loginPage.clickLogin();
         Thread.sleep(3000);
         takeScreenshot();
