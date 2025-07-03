@@ -22,7 +22,12 @@ import pages.LoginPage;
 public class LoginTest {
     WebDriver driver;
     LoginPage loginPage;
-
+       
+    
+    /**
+     * This method sets up the WebDriver and initializes the LoginPage object.
+     * It uses WebDriverManager to automatically manage the ChromeDriver version.
+     */
     @BeforeClass
     public void setup() {
         // ✅ Setup WebDriverManager (auto-downloads compatible driver)
@@ -75,7 +80,7 @@ public class LoginTest {
             loginPage.enterPassword(validCreds[i][1]);
             loginPage.clickLogin();
 
-            Thread.sleep(2000);
+            Thread.sleep(1500);
             takeScreenshot("validLogin_" + (i + 1));
 
             // Navigate back if redirected
@@ -92,7 +97,7 @@ public class LoginTest {
             loginPage.enterPassword("wrongpass");
             loginPage.clickLogin();
 
-            Thread.sleep(2000);
+            Thread.sleep(1500);
             takeScreenshot("invalidLogin_" + i);
         }
     }
