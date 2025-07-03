@@ -74,7 +74,7 @@ public class AddUserTest {
         // ✅ Step 5: Fill First Name, Last Name, Email (Based on label 'for' attribute)
         fillInputByLabel("First Name*", "John");
         fillInputByLabel("Last Name*", "Doe");
-        fillInputByLabel("Email*", "adityakonda@example.com");
+        fillInputByLabel("Email*", "adityakonda1@example.com");
         Thread.sleep(1000);
         takeScreenshot();
 
