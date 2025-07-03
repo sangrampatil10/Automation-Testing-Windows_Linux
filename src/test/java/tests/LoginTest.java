@@ -80,7 +80,7 @@ public class LoginTest {
             loginPage.enterPassword(validCreds[i][1]);
             loginPage.clickLogin();
 
-            Thread.sleep(1500);
+            Thread.sleep(2000);
             takeScreenshot("validLogin_" + (i + 1));
 
             // Navigate back if redirected
@@ -97,7 +97,7 @@ public class LoginTest {
             loginPage.enterPassword("wrongpass");
             loginPage.clickLogin();
 
-            Thread.sleep(1500);
+            Thread.sleep(2000);
             takeScreenshot("invalidLogin_" + i);
         }
     }
