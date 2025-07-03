@@ -1,7 +1,7 @@
 # 🔐 Login Automation Testing - For Any Website
 
-This project automates login testing and some customizable where I also did automation testing for Adding a user for CWD Limited for the [Soundbox](https://soundbox.dev.sb.cwdin.com/login) web application using **Java**, **Selenium WebDriver**, **TestNG**, and **Maven**.
-But you can change the url and do the login automation testing for any website windows as well as Linux.
+This project automates login testing for the [Soundbox](https://soundbox.dev.sb.cwdin.com/login) web application using **Java**, **Selenium WebDriver**, **TestNG**, and **Maven**.
+But you can change the url and do the login automation testing for any website
 ---
 
 ## ✅ Features
@@ -46,8 +46,12 @@ Ensure the following are installed:
 
 ---
 
-## 🚀 How to Run
-
+## 🚀 How to Run 
+---
+For LoginTest.java -> mvn test -Dtest=LoginTest
+---
+For AddUserTest.java -> mvn test -Dtest=AddUserTest
+---
 ### Step 1: Clone the Repo
 
 ```bash
